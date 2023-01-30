@@ -54,4 +54,19 @@ git push
 
 **Hide the Content**
 
-<!--Some of the text is hide from the user 
+<!--Some of the text is hide from the user-->
+
+## Multi-tier Web Application Setup
+
+**Add Image** 
+![GitHub Light](/multi-tier-local-setup.png)
+
+
+## Step 1: Setup the VM:
+
+- Clone the repository
+
+```
+git clone https://github.com/vijaylondhe/git_test.git
+```
+
