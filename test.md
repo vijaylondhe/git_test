@@ -52,3 +52,6 @@ git push
 ```
 
 
+**Hide the Content**
+
+<!--Some of the text is hide from the user 
